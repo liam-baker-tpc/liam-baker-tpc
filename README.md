@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liam-baker-tpc
 - 👀 I’m interested in AWS, Architecture and Automation
 - 🌱 I’m currently learning about Tenant Management
-- 💞️ I’m looking to collaborate on TP Connects Architecture work.
+- 💞️ I’m looking to collaborate on all things technology related.
 - 📫 How to reach me liam.baker@tpconnects.com
 
 <!---
